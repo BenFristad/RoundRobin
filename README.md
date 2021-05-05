@@ -7,6 +7,6 @@ The program takes 2 arguments. It takes a text file as arg[0] and a integer as a
 
 Reference data.txt to see the format of the file.
 
-The second argument is an int that reprents how much time is taken off of each process as we iterate through the linked list.
+The second argument is an int that represents how much time is taken off of each process as we iterate through the linked list.
 
 The output of this program will a list of the processes in the order that they were completed.
